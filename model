@@ -17,5 +17,6 @@ api keys
 sessions
     id
     username
+    category
     created
     ended
