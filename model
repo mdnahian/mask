@@ -1,0 +1,21 @@
+user
+    first name
+    last name
+    username
+    email
+    password
+    is confirmed
+
+
+api keys
+    username
+    key
+    counter
+    created
+
+
+sessions
+    id
+    username
+    created
+    ended
